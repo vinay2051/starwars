@@ -12,5 +12,14 @@
     "body-parser": "^1.17.1",
     "ejs": "^2.5.6",
     "express": "^4.15.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinay2051/starwars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinay2051/starwars/issues"
+  },
+  "homepage": "https://github.com/vinay2051/starwars#readme"
 }
